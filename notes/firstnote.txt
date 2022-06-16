@@ -1,0 +1,8 @@
+  GNU nano 4.8                     firstnote.txt                      Modified  
+I'm glad to be here. 
+
+my first note is about how great i'm to be in this course. 
+
+Link to help with some topics:
+
+https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
